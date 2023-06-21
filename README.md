@@ -4,7 +4,7 @@
 ---
 ```
 -Kneeboard  
---F-15E
+--F-15E (Current version 1.2)
 ```
 
 ## How to install the file you want
